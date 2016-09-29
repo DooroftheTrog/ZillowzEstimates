@@ -1,0 +1,6 @@
+C:\Users\ianmiller\documents\visual studio 2015\Projects\zEstimates\zEstimates\bin\Debug\zEstimates.exe.config
+C:\Users\ianmiller\documents\visual studio 2015\Projects\zEstimates\zEstimates\bin\Debug\zEstimates.exe
+C:\Users\ianmiller\documents\visual studio 2015\Projects\zEstimates\zEstimates\bin\Debug\zEstimates.pdb
+C:\Users\ianmiller\documents\visual studio 2015\Projects\zEstimates\zEstimates\obj\Debug\zEstimates.csproj.ResolveComReference.cache
+C:\Users\ianmiller\documents\visual studio 2015\Projects\zEstimates\zEstimates\obj\Debug\zEstimates.exe
+C:\Users\ianmiller\documents\visual studio 2015\Projects\zEstimates\zEstimates\obj\Debug\zEstimates.pdb
